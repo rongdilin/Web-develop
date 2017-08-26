@@ -1,4 +1,6 @@
 # Web-develop
-HTML project: registerationForm.html\n
-CSS project: bolg.html & bolg.css\n
+HTML project: registerationForm.html
+
+CSS project: bolg.html & bolg.css
+
 Bootstrap JS JQuery NodeJS
